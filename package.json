@@ -1,0 +1,19 @@
+{
+  "name": "migrate-schema-graphcms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mudiageo/migrate-schema-graphcms.git"
+  },
+  "author": "Mudiaga Arharhire",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mudiageo/migrate-schema-graphcms/issues"
+  },
+  "homepage": "https://github.com/mudiageo/migrate-schema-graphcms#readme"
+}
